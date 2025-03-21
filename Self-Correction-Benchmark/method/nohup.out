@@ -1,0 +1,22 @@
+CUDA是否可用: True
+可用的GPU数量: 1
+GPU 0: NVIDIA A800-SXM4-80GB
+---------------------------------------------------------------------------------------
+| Provider: llama
+| Model name: /data/pre_train_model/hugging_face_model/meta-llama/Llama-3.1-8B-Instruct
+---------------------------------------------------------------------------------------
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:04<00:13,  4.52s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:09<00:09,  4.70s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:14<00:04,  4.74s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:14<00:00,  3.19s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:14<00:00,  3.74s/it]
+
+Processing Task: MATH
+-----------------
+| Task name: MATH
+| Task type: math
+| Data split: train
+| Data number 100
+-----------------
+Making a new file /home/yueke/correct/hcr_selfcorrection/Self-Correction-Benchmark/results/promptbased/MATH///data/pre_train_model/hugging_face_model/meta-llama/Llama-3.1-8B-Instruct_results.json to save the result.
+Processing MATH questions:   0%|          | 0/100 [00:00<?, ?it/s]/home/yueke/.local/lib/python3.10/site-packages/transformers/generation/configuration_utils.py:676: UserWarning: `num_beams` is set to 1. However, `early_stopping` is set to `True` -- this flag is only used in beam-based generation modes. You should set `num_beams>1` or unset `early_stopping`.
+  warnings.warn(
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.

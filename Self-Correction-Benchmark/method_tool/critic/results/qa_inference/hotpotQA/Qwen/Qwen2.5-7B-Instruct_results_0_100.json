@@ -1,0 +1,2398 @@
+[
+    {
+        "supporting_facts": [
+            [
+                "Arthur's Magazine",
+                0
+            ],
+            [
+                "First for Women",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Which magazine was started first Arthur's Magazine or First for Women?",
+        "answer": "Arthur's Magazine",
+        "_id": "5a7a06935542990198eaf050",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Arthur's Magazine was started first. It was launched in 1844, while First for Women was started in 1989."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Oberoi family",
+                0
+            ],
+            [
+                "The Oberoi Group",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+        "answer": "Delhi",
+        "_id": "5a879ab05542996e4f30887e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Oberoi family is known for the Oberoi Hotels and Resorts, which is part of the Oberoi Group. The head office of the Oberoi Group is located in Mumbai, India. So the answer is: Mumbai."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Allie Goertz",
+                0
+            ],
+            [
+                "Allie Goertz",
+                1
+            ],
+            [
+                "Allie Goertz",
+                2
+            ],
+            [
+                "Milhouse Van Houten",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who?",
+        "answer": "President Richard Nixon",
+        "_id": "5a8d7341554299441c6b9fe5",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question is asking about the inspiration behind the name \"Milhouse\" for a character in \"The Simpsons.\" According to the information provided, Matt Groening named the character Milhouse after U.S. president Richard Nixon. So the answer is: Richard Nixon."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Peggy Seeger",
+                0
+            ],
+            [
+                "Peggy Seeger",
+                1
+            ],
+            [
+                "Ewan MacColl",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": " What nationality was James Henry Miller's wife?",
+        "answer": "American",
+        "_id": "5a82171f5542990a1d231f4a",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. James Henry Miller was an American psychologist and writer, best known for his work on the psychology of creativity and his book \"The Drama of the Gifted Child.\" His wife was June Singer, who was also an American poet and psychoanalyst. So the answer is: American."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Cadmium chloride",
+                1
+            ],
+            [
+                "Ethanol",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Cadmium Chloride is slightly soluble in this chemical, it is also called what?",
+        "answer": "alcohol",
+        "_id": "5a84dd955542997b5ce3ff79",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Cadmium Chloride is slightly soluble in water. Water is often referred to as the universal solvent because it can dissolve many substances. So, the chemical in which Cadmium Chloride is slightly soluble and is also called the universal solvent is water. \n\nSo the answer is: water."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Jonathan Stark (tennis)",
+                0
+            ],
+            [
+                "Jonathan Stark (tennis)",
+                1
+            ],
+            [
+                "Henri Leconte",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?",
+        "answer": "Jonathan Stark",
+        "_id": "5a7e36045542991319bc9440",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine which tennis player won more Grand Slam titles, we need to look at their respective Grand Slam titles.\n\n1. **Henri Leconte**: Henri Leconte is a French former professional tennis player. He won 1 Grand Slam title, which was the French Open in 1985.\n\n2. **Jonathan Stark**: Jonathan Stark is also a former professional tennis player, but from the United States. He won 0 Grand Slam titles during his career.\n\nComparing the two:\n- Henri Leconte: 1 Grand Slam title (French Open 1985)\n- Jonathan Stark: 0 Grand Slam titles\n\nTherefore, Henri Leconte won more Grand Slam titles than Jonathan Stark. So the answer is: Henri Leconte."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Indogrammodes",
+                0
+            ],
+            [
+                "Indogrammodes",
+                1
+            ],
+            [
+                "India",
+                0
+            ],
+            [
+                "India",
+                1
+            ]
+        ],
+        "level": "hard",
+        "question": "Which genus of moth in the world's seventh-largest country contains only one species?",
+        "answer": "Crambidae",
+        "_id": "5adf44985542993a75d2646d",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The world's seventh-largest country is Australia. To find a genus of moth in Australia that contains only one species, we need to consider some of the unique and less-studied moth genera in Australia.\n\nOne such example is the genus *Lepidoptera* (though this is not a specific genus but the order to which moths belong). However, a more specific and lesser-known genus that fits the criteria is *Acanthocampa*. This genus is known to contain only one species, *Acanthocampa acanthocampoides*.\n\nSo, the answer is: Acanthocampa (though it's important to note that this is a genus within the broader order Lepidoptera, and the specific species within this genus is *Acanthocampa acanthocampoides*)."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Global Fighting Championship",
+                1
+            ],
+            [
+                "Global Fighting Championship",
+                2
+            ],
+            [
+                "Badr Hari",
+                0
+            ],
+            [
+                "Badr Hari",
+                2
+            ]
+        ],
+        "level": "easy",
+        "question": "Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his \"unsportsmanlike conducts\" in the sport and crimes of violence outside of the ring.",
+        "answer": "Badr Hari",
+        "_id": "5a832c3455429954d2e2ec41",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The individual you're referring to is likely K-1 World Grand Prix winner and former K-1 World MAX champion, K-1 Legend, who is widely known as K-1's greatest fighter, K-2. However, K-2 has been involved in several controversies, including unsportsmanlike conduct in the ring and crimes of violence outside of it. One of the most well-known figures fitting this description is Frank Mir, but the most prominent and widely recognized individual who fits this description is undoubtedly K-2, which is a nickname for K-1's top fighters over the years, with notable individuals like K-2: Katsuyori Shibata, K-2: Kazuhiro Nakamura, and K-2: Kiyoshi Tamura. However, the most famous and controversial K-2 in recent history is likely K-2: Katsuyori Shibata, who was once considered the best kickboxer in the world but has been involved in numerous controversies.\n\nSo, the answer is: K-2 (Katsuyori Shibata), though it's important to note that the term \"K-2\" is a nickname for the top K-1 fighters, and the specific individual can vary over time."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "House of Anubis",
+                0
+            ],
+            [
+                "Het Huis Anubis",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "The Dutch-Belgian television series that \"House of Anubis\" was based on first aired in what year?",
+        "answer": "2006",
+        "_id": "5a7d0db955429909bec76924",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \"House of Anubis\" is a Dutch-Belgian television series that was based on a Belgian television series called \"Huis Anubis.\" \"Huis Anubis\" first aired in 2009. So the answer is: 2009."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "2013 Liqui Moly Bathurst 12 Hour",
+                0
+            ],
+            [
+                "2013 Liqui Moly Bathurst 12 Hour",
+                1
+            ],
+            [
+                "Mount Panorama Circuit",
+                0
+            ],
+            [
+                "Mount Panorama Circuit",
+                2
+            ]
+        ],
+        "level": "hard",
+        "question": "What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?",
+        "answer": "6.213 km long",
+        "_id": "5a89372855429951533612e6",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The 2013 Liqui Moly Bathurst 12 Hour race was held at the Mount Panorama Circuit in Bathurst, New South Wales, Australia. The Mount Panorama Circuit is a famous road course that is part of the Mount Panorama raceway. The length of the full circuit is approximately 6.203 kilometers (3.858 miles).\n\nSo the answer is: The length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is approximately 6.203 kilometers (or 3.858 miles)."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Fast Cars, Danger, Fire and Knives",
+                2
+            ],
+            [
+                "El-P",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?",
+        "answer": "Jaime Meline",
+        "_id": "5abd90545542996e802b47d7",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The album \"Fast Cars, Danger, Fire and Knives\" is by the hip hop group Migos. The guest appearances on this album include a hip hop record executive named Kevin \"Lofton\" Lo. Kevin Lo is a record executive and co-founder of Quality Control Music, a subsidiary of Atlantic Records. So the answer is: Kevin Lo."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Gunmen from Laredo",
+                0
+            ],
+            [
+                "Walter Coy",
+                0
+            ],
+            [
+                "Walter Coy",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Gunmen from Laredo starred which narrator of \"Frontier\"?",
+        "answer": "Walter Darwin Coy",
+        "_id": "5aba66c855429939ce03dcdb",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question is asking about the narrator of the TV show \"Frontier\" who also starred in the film \"Gunmen from Laredo.\"\n\nTo answer this, we need to identify the narrator of \"Frontier\" and then check if that person also starred in \"Gunmen from Laredo.\"\n\n1. **Identify the narrator of \"Frontier\":** The narrator of the TV show \"Frontier\" was Ken Watanabe. Ken Watanabe is a Japanese actor known for his role as Aragorn in \"The Lord of the Rings\" trilogy and for his work in various films and TV shows.\n\n2. **Check if Ken Watanabe starred in \"Gunmen from Laredo\":** \"Gunmen from Laredo\" is a 1958 Western film. Ken Watanabe was born in 1966, which means he was not alive to star in the 1958 film.\n\nTherefore, the answer is that Ken Watanabe, the narrator of \"Frontier,\" did not star in \"Gunmen from Laredo\" because he was not alive at the time the film was made."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Die Rh\u00f6ner S\u00e4uw\u00e4ntzt",
+                0
+            ],
+            [
+                "Skiffle",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Where did the form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originate?",
+        "answer": "United States",
+        "_id": "5a7722d655429966f1a36c99",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \"Die Rh\u00f6ner S\u00e4uw\u00e4ntzt\" is a band known for playing Alpenmusik, a form of music that originated in the Alpine regions of Central Europe. This type of music is characterized by its use of traditional Alpine instruments such as the alphorn, zither, and various wind instruments. The specific region where this form of music originated is the Rh\u00f6n Mountains, which are located in Germany. \n\nSo, the form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originated in the Rh\u00f6n Mountains in Germany."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Malcolm Smith (American football)",
+                3
+            ],
+            [
+                "Super Bowl XLVIII",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "In which American football game was Malcolm Smith named Most Valuable player?",
+        "answer": "Super Bowl XLVIII",
+        "_id": "5ade025e5542997dc790711e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Malcolm Smith is known for his performance in the 2014 NFL playoffs, specifically in the Wild Card game between the Seattle Seahawks and the San Diego Chargers. In that game, he intercepted a pass and returned it for a touchdown, which was a key play in the Seahawks' victory. Given his significant contribution to the game, he was named the Most Valuable Player (MVP) of that game. So the answer is: The 2014 Wild Card game between the Seattle Seahawks and the San Diego Chargers."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Zilpo Road",
+                1
+            ],
+            [
+                "Morehead, Kentucky",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?",
+        "answer": "US 60",
+        "_id": "5ab381b155429969a97a816b",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Zilpo Road is located in South Dakota, and one of the major highways that gives access to it is U.S. Highway 81. U.S. Highway 81 is also known as the Midland Trail in some sections. So the answer is: U.S. Highway 81 (Midland Trail)."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "The Great Outdoors (film)",
+                0
+            ],
+            [
+                "The Great Outdoors (film)",
+                1
+            ],
+            [
+                "Annette Bening",
+                0
+            ],
+            [
+                "Annette Bening",
+                3
+            ],
+            [
+                "Annette Bening",
+                4
+            ]
+        ],
+        "level": "medium",
+        "question": "The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?",
+        "answer": "2006",
+        "_id": "5ae0d91e55429924de1b7198",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The 1988 American comedy film, \"The Great Outdoors,\" starred Danny DeVito, who is indeed a four-time Academy Award nominee. Danny DeVito received a star on the Hollywood Walk of Fame in 1995. So the answer is: 1995."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Hurt Locker (musical)",
+                3
+            ],
+            [
+                "Metallica",
+                2
+            ]
+        ],
+        "level": "easy",
+        "question": "What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? ",
+        "answer": "Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.",
+        "_id": "5ac2a5d455429921a00ab01b",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question asks about the current members of an American heavy metal band that wrote music for \"Hurt Locker The Musical.\" However, there is no widely known heavy metal band that has written music specifically for \"Hurt Locker The Musical,\" which is a stage musical based on the 2008 film \"The Hurt Locker.\"\n\nGiven this information, it's important to clarify that there might be a misunderstanding or confusion in the question. \"Hurt Locker The Musical\" was composed by David Yazbek and the book was written by Mark O'Donnell and James L. Brooks. It does not appear to have been composed by a heavy metal band.\n\nIf you have additional context or a specific band in mind that you believe wrote the music for \"Hurt Locker The Musical,\" please provide more details so I can assist you accurately."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Human Error (House)",
+                0
+            ],
+            [
+                "House (TV series)",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Human Error\" is the season finale of the third season of a tv show that aired on what network?",
+        "answer": "Fox",
+        "_id": "5adc1309554299438c868d3b",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question is asking about the network on which the season finale of the third season of a TV show titled \"Human Error\" aired. \n\nTo answer this, we need to identify the TV show \"Human Error\" and its network. \"Human Error\" is a crime drama series that aired on USA Network. The season finale of the third season of \"Human Error\" aired on USA Network.\n\nSo the answer is: USA Network."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Dua Lipa",
+                5
+            ],
+            [
+                "New Rules (song)",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single \"New Rules\" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?",
+        "answer": "2017",
+        "_id": "5a83168855429966c78a6b2e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Dua Lipa's debut studio album, which spawned the number-one single \"New Rules,\" is titled \"Dua Lipa.\" \"New Rules\" was released in 2017. Therefore, the album was released in the same year, 2017. So the answer is: 2017."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Joe Heck",
+                0
+            ],
+            [
+                "Joe Heck",
+                2
+            ],
+            [
+                "Catherine Cortez Masto",
+                2
+            ]
+        ],
+        "level": "easy",
+        "question": "American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?",
+        "answer": "Nevada",
+        "_id": "5ab698885542995eadef002a",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Catherine Cortez Masto is a well-known politician who served as the 32nd Attorney General of Nevada. She later became a U.S. Senator from Nevada. So, the answer is: Nevada."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Warren Bryant",
+                0
+            ],
+            [
+                "Longs Drugs",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Which state does the drug stores, of which the CEO is Warren Bryant, are located?",
+        "answer": "Hawaii",
+        "_id": "5ab345db55429969a97a8122",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question mentions Warren Bryant as the CEO of drug stores. However, Warren Bryant is not a widely known figure associated with a specific chain of drug stores. Without additional context or information about which drug store chain he is CEO of, it's not possible to determine the state where these drug stores are located. \n\nTo provide an accurate answer, we would need more specific information about the drug store chain in question. Could you provide more details about the drug store chain or Warren Bryant's role?"
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Sue Donahue",
+                2
+            ],
+            [
+                "Kelli Ward",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Which  American politician did Donahue replaced ",
+        "answer": "Kelli Ward",
+        "_id": "5adf732a5542993a75d264e9",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To answer this question, we need to know who Donahue is and in what context he replaced an American politician. Donahue is likely referring to Joe Donahue, who was a U.S. Representative from Massachusetts. Joe Donahue served in the U.S. House of Representatives from 2013 to 2021. He replaced Richard Baker, who was the previous representative for Massachusetts's 1st congressional district. So the answer is: Richard Baker."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Courtney Love",
+                0
+            ],
+            [
+                "Courtney Love",
+                2
+            ],
+            [
+                "The Wolfhounds",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?",
+        "answer": "The Wolfhounds",
+        "_id": "5ac2a912554299218029dae8",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **Hole**: Hole was formed in Los Angeles in 1989. The band was founded by Courtney Love and her husband, Billy Howerdel.\n\n2. **The Wolfhounds**: The Wolfhounds were an American rock band formed in 1987 in New York City. They were active in the early to mid-1990s.\n\nComparing the two:\n- The Wolfhounds: Formed in 1987\n- Hole: Formed in 1989\n\nSince 1987 is earlier than 1989, The Wolfhounds were founded first.\n\nSo the answer is: The Wolfhounds."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Catching Fire",
+                0
+            ],
+            [
+                "The Hunger Games (novel)",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "How old is the female main protagonist of Catching Fire?",
+        "answer": "16-year-old",
+        "_id": "5a7272eb5542997f827839d7",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Catching Fire is a novel in the Hunger Games series by Suzanne Collins. The female main protagonist of Catching Fire is Katniss Everdeen. In the books, Katniss is 16 years old at the beginning of Catching Fire. So the answer is: 16 years old."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Chang Ucchin",
+                1
+            ],
+            [
+                "Korea under Japanese rule",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Chang Ucchin was born in korea during a time that ended with the conclusion of what? ",
+        "answer": "World War II",
+        "_id": "5ac2c3545542990b17b1548b",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Chang Ucchin is a character from the Korean animated series \"Chang Ucchin and the Magic Brush.\" The series is set during the Joseon Dynasty, which was a period in Korean history that ended with the conclusion of the Korean Empire in 1910, when Korea was annexed by Japan. So the answer is: the Korean Empire."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Quality Cafe (diner)",
+                0
+            ],
+            [
+                "Quality Cafe (diner)",
+                1
+            ],
+            [
+                "Old School (film)",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?",
+        "answer": "Todd Phillips",
+        "_id": "5ae3b4d05542992f92d82349",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine the director of the 2003 film that has scenes filmed at the Quality Cafe in Los Angeles, we need to identify the film first. The Quality Cafe is a well-known landmark in Los Angeles, and it has been featured in several films. One notable film that was shot there is \"Almost Famous,\" which was released in 2000, not 2003. Another film that features the Quality Cafe is \"The Big Lebowski,\" which was released in 1998. However, the 2003 film that features the Quality Cafe is \"The Royal Tenenbaums.\" The director of \"The Royal Tenenbaums\" is Wes Anderson. So the answer is: Wes Anderson."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "New Faces of 1952",
+                2
+            ],
+            [
+                "Carol Lawrence",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?",
+        "answer": "Carol Lawrence",
+        "_id": "5a76a401554299373536012b",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. New Faces of 1952 was a musical revue that featured new talent in the entertainment industry. It helped launch the career of Barbra Streisand, who was a young performer and American actress at the time. So the answer is: Barbra Streisand."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Pavel Urysohn",
+                0
+            ],
+            [
+                "Leonid Levin",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Were Pavel Urysohn and Leonid Levin known for the same type of work?",
+        "answer": "no",
+        "_id": "5ae3918b5542994393b9e709",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Pavel Urysohn is known for his contributions to topology and functional analysis. Leonid Levin is known for his work in theoretical computer science, particularly for the development of the concept of average-case complexity and Levin's universal distribution. So while both are mathematicians, they are known for different types of work. Therefore, the answer is: No."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "The New Pornographers",
+                0
+            ],
+            [
+                "Kings of Leon",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Are both The New Pornographers and Kings of Leon American rock bands?",
+        "answer": "no",
+        "_id": "5a8efd3c55429918e830d179",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **The New Pornographers**: This band is indeed an American rock band. They were formed in Vancouver, Canada, but they are primarily associated with the American music scene and have a significant American fan base.\n\n2. **Kings of Leon**: This band is also an American rock band. They were formed in Nashville, Tennessee, and are strongly associated with the American music industry.\n\nSo, both The New Pornographers and Kings of Leon are American rock bands. \n\nTherefore, the answer is: Yes."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "750 7th Avenue",
+                0
+            ],
+            [
+                "101 Park Avenue",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "750 7th Avenue and 101 Park Avenue, are located in which city?",
+        "answer": "New York City",
+        "_id": "5a8b63755542997f31a41cfe",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n750 7th Avenue and 101 Park Avenue are both well-known addresses in New York City. \n\n- 750 7th Avenue is located in Midtown Manhattan.\n- 101 Park Avenue is also located in Manhattan.\n\nSo, the answer is: New York City."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Kimberly Hart",
+                0
+            ],
+            [
+                "Kimberly Hart",
+                1
+            ],
+            [
+                "Power Rangers",
+                0
+            ],
+            [
+                "Power Rangers",
+                1
+            ]
+        ],
+        "level": "easy",
+        "question": "Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?",
+        "answer": "Amy Jo Johnson",
+        "_id": "5ac15df95542994d76dccded",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question is asking about a live-action superhero television series that draws inspiration from the Japanese tokusatsu series 'Super Sentai'. The 'Super Sentai' series is known for its colorful teams of heroes, often with similar names and themes. The live-action series that is most closely associated with 'Super Sentai' is 'Power Rangers'. In the Power Rangers franchise, the character Kimberly Ann Hart is played by Amy Jo Johnson. So the answer is: Amy Jo Johnson."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Pablo Trapero",
+                0
+            ],
+            [
+                "Aleksander Ford",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Who was born first, Pablo Trapero or Aleksander Ford?",
+        "answer": "Aleksander Ford",
+        "_id": "5a7a02235542996c55b2dcd3",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **Pablo Trapero**: Born on October 21, 1963.\n2. **Aleksander Ford**: Born on October 23, 1964.\n\nSince 1963 is earlier than 1964, Pablo Trapero was born first.\n\nSo the answer is: Pablo Trapero."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Jane (magazine)",
+                0
+            ],
+            [
+                "First for Women",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Are Jane and First for Women both women's magazines?",
+        "answer": "yes",
+        "_id": "5ac061ab554299294b218fac",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Jane is a women's magazine that focuses on fashion, beauty, and lifestyle. First for Women is also a women's magazine that covers topics such as health, relationships, and career advice. So both Jane and First for Women are indeed women's magazines. So the answer is: Yes."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Nicholas Ray",
+                0
+            ],
+            [
+                "Elia Kazan",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What profession does Nicholas Ray and Elia Kazan have in common?",
+        "answer": "director",
+        "_id": "5ab5a2f85542997d4ad1f197",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Nicholas Ray's professions include director, screenwriter, and actor. Elia Kazan's professions include director, producer, screenwriter, and actor. The professions that Nicholas Ray and Elia Kazan have in common are director, screenwriter, and actor. So the answer is: director, screenwriter, actor."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Aixam",
+                2
+            ],
+            [
+                "Polaris Industries",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Where is the company that purchased Aixam based in?",
+        "answer": "Roseau, Minnesota, USA",
+        "_id": "5abd7ca05542993062266cab",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Aixam is a French company that manufactures small vehicles. In 2017, Aixam was purchased by Magna International, a Canadian multinational automotive parts manufacturer. Magna International is based in Mississauga, Ontario, Canada. So the answer is: Mississauga, Ontario, Canada."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Adam Clayton Powell (film)",
+                0
+            ],
+            [
+                "The Saimaa Gesture",
+                0
+            ],
+            [
+                "The Saimaa Gesture",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?",
+        "answer": "The Saimaa Gesture",
+        "_id": "5a8ce5c7554299441c6b9f64",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Adam Clayton Powell is a documentary about an African-American politician, not about Finnish rock groups. The Saimaa Gesture is a documentary about Finnish rock groups. So the answer is: The Saimaa Gesture."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Cia Berg",
+                0
+            ],
+            [
+                "Cia Berg",
+                1
+            ],
+            [
+                "David Lee Roth",
+                0
+            ],
+            [
+                "David Lee Roth",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?",
+        "answer": "David Lee Roth",
+        "_id": "5a81ff1d554299676cceb1c3",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. David Lee Roth is a musician and has been a member of several rock bands, most notably Van Halen. Cia Berg, on the other hand, is not widely known for her contributions to rock music. The Rock and Roll Hall of Fame primarily inducts musicians, producers, and other significant figures in the history of rock music. David Lee Roth was inducted into the Rock and Roll Hall of Fame as a member of Van Halen in 2007. Cia Berg is not a well-known figure in rock music, so it is unlikely she was inducted into the Rock and Roll Hall of Fame. Therefore, the answer is: David Lee Roth."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Guwe Secondary School",
+                1
+            ],
+            [
+                "Carle Place High School",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?",
+        "answer": "Nassau County",
+        "_id": "5ae732685542991e8301cbc3",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Guwe Secondary School in Zimbabwe has a sister school relationship with a school in New York County. The specific sister school is St. John the Baptist School, which is located in the Bronx, New York. So the answer is: Bronx."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Royal Commission into Drug Trafficking",
+                0
+            ],
+            [
+                "Honoured Society (Australia)",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "The Royal Commission into Drug Trafficking (1977\u20131979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  ",
+        "answer": "Australia",
+        "_id": "5a8a2ebc5542996c9b8d5e33",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Honoured Society, also known as the 'Ndrangheta, is a Calabrian 'Ndrangheta criminal confederation. The question asks about the country where this organization is currently active. The 'Ndrangheta is originally from Calabria, a region in southern Italy. However, the question mentions that the organization started in Melbourne, which is in Australia. Despite starting in Australia, the 'Ndrangheta is currently active in all of Italy.\n\nSo the answer is: Italy."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "337th Flight Test Squadron",
+                0
+            ],
+            [
+                "McClellan Air Force Base",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?",
+        "answer": "California",
+        "_id": "5add28c85542992ae4cec4be",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The 337th Flight Test Squadron (337 FLTS) was based at McClellan Air Force Base. McClellan Air Force Base was located in the North Highlands area of Sacramento County, which is in the state of California. So the answer is: California."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Pirna 014",
+                0
+            ],
+            [
+                "Junkers",
+                0
+            ],
+            [
+                "Junkers",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?",
+        "answer": "Dessau",
+        "_id": "5a7d90195542991319bc93cf",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Pirna 014 axial turbojet engine was designed by engineers from the German aircraft and aircraft engine manufacturer Junkers. Junkers was based in Dessau, Germany. So the answer is: Dessau."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "University of Providence",
+                0
+            ],
+            [
+                "University of Providence",
+                1
+            ],
+            [
+                "Great Falls, Montana",
+                0
+            ],
+            [
+                "Great Falls, Montana",
+                5
+            ],
+            [
+                "Great Falls, Montana",
+                6
+            ]
+        ],
+        "level": "easy",
+        "question": "Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? ",
+        "answer": "Roman Catholic",
+        "_id": "5abe3f9455429976d4830aaa",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The University of Providence is a private university located in the third largest city in Montana after Missoula. This city is Great Falls. The University of Providence is designated to the Roman Catholic faith. So the answer is: Roman Catholic."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Pauline Henry",
+                0
+            ],
+            [
+                "Pauline Henry",
+                1
+            ],
+            [
+                "I Still Haven't Found What I'm Looking For",
+                0
+            ],
+            [
+                "I Still Haven't Found What I'm Looking For",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?",
+        "answer": "The Joshua Tree",
+        "_id": "5abee5e25542994516f45473",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Pauline Henry was a French singer known for her cover of the song \"I'll Be Seeing You.\" This song is a popular cover version of an original work by Albert Von Tilzer, with lyrics by Yip Harburg and Ted Koehler. Pauline Henry's version of \"I'll Be Seeing You\" was featured on her 1943 album \"Pauline Henry Sings.\" So the answer is: Pauline Henry Sings."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Guitars for Wounded Warriors",
+                2
+            ],
+            [
+                "New Paltz (village), New York",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?",
+        "answer": "Ulster County",
+        "_id": "5ae78ec5554299540e5a5605",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The album \"Guitars for Wounded Warriors\" was recorded in the village of Woodstock, which is located in Ulster County, New York. So the answer is: Ulster County."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "The Battle (George Jones song)",
+                0
+            ],
+            [
+                "The Battle (George Jones song)",
+                5
+            ],
+            [
+                "Tammy Wynette",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song \"The Battle?\"",
+        "answer": "Tammy Wynette",
+        "_id": "5a760a5f554299109176e629",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The song \"The Battle\" was released by George Jones in 1974. George Jones was married to Tammy Wynette at the time, and they divorced in 1975. Tammy Wynette released a duet with George Jones in 1975, which was the same year he released \"The Battle.\" The song they sang together was \"Stand by Your Man.\" Tammy Wynette was born on May 28, 1942.\n\nSo the answer is: Tammy Wynette."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Francis Nethersole",
+                0
+            ],
+            [
+                "Elizabeth Stuart, Queen of Bohemia",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Who was born first, Francis Nethersole or Elizabeth Stuart?",
+        "answer": "Sir Francis Nethersole",
+        "_id": "5a7a52745542996c55b2dd4f",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Francis Nethersole was an English physician and poet who lived from 1657 to 1735. Elizabeth Stuart was a Scottish noblewoman who lived from 1615 to 1675. Comparing the birth years, Francis Nethersole was born in 1657, while Elizabeth Stuart was born in 1615. Therefore, Elizabeth Stuart was born first. So the answer is: Elizabeth Stuart."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Hacker-Pschorr Brewery",
+                0
+            ],
+            [
+                "Reinheitsgebot",
+                0
+            ],
+            [
+                "Reinheitsgebot",
+                1
+            ]
+        ],
+        "level": "hard",
+        "question": "What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?",
+        "answer": "ingredients in beer",
+        "_id": "5ac1f7f355429964131be2ae",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Hacker-Pschorr Brewery, like other breweries in Germany, must comply with the Reinheitsgebot, which is the German Beer Purity Law. This law, enacted in 1516, stipulates that beer can only be made from four ingredients: water, barley (for malt), hops, and yeast. Therefore, to comply with German regulations, the Hacker-Pschorr Brewery must limit the use of any additional ingredients beyond these four.\n\nSo the answer is: The Hacker-Pschorr Brewery must limit the use of any additional ingredients beyond water, barley, hops, and yeast."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Don Barry Mason",
+                1
+            ],
+            [
+                "Howard Marks",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?",
+        "answer": "Dennis Howard Marks",
+        "_id": "5a74248855429929fddd83e5",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI). To find the other Welsh member who died on 10 April 2016, we need to identify who that member was. \n\nThe Welsh member who fits this description is Rick Strassman. Rick Strassman was a psychiatrist and researcher who studied the effects of DMT (dimethyltryptamine) and was involved with the PSI. He passed away on April 10, 2016.\n\nSo the answer is: Rick Strassman."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "The Messenger (2015 horror film)",
+                0
+            ],
+            [
+                "Robert Sheehan",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "What male actor starred in The Messenger?",
+        "answer": "Robert Sheehan",
+        "_id": "5abd04f15542996e802b467e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "To answer the question \"What male actor starred in The Messenger?\", we need to identify the male actor who played a significant role in the film \"The Messenger.\"\n\n\"The Messenger\" is a 2009 American drama film directed by Benjamin Ross. The main male actor who starred in this film is Jake Gyllenhaal. He played the role of Jack Jordan, a young man who delivers messages for a secret government agency.\n\nSo the answer is: Jake Gyllenhaal."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Gin and tonic",
+                0
+            ],
+            [
+                "Paloma (cocktail)",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Are Gin and tonic and Paloma both cocktails based on tequila?",
+        "answer": "no",
+        "_id": "5ac3ad225542995ef918c1da",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **Gin and Tonic**: This cocktail is based on gin, which is a distilled alcoholic beverage made from juniper berries and other ingredients. Tonic water, which contains quinine, is added to it.\n\n2. **Paloma**: This cocktail is based on tequila, which is a distilled alcoholic beverage made from the blue agave plant, primarily in the region of Jalisco, Mexico.\n\nSo, the answer is: No, Gin and Tonic is not based on tequila, while Paloma is based on tequila."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Glenn Hughes",
+                0
+            ],
+            [
+                "Ross Lynch",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "Who is older Glenn Hughes or Ross Lynch?",
+        "answer": "Glenn Hughes",
+        "_id": "5a736bfa5542991f29ee2e03",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Glenn Hughes was born on October 28, 1951. Ross Lynch was born on May 25, 1990. Since 1951 is earlier than 1990, Glenn Hughes is older. So the answer is: Glenn Hughes."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "The Simpsons Theme",
+                0
+            ],
+            [
+                "The Simpsons Theme",
+                3
+            ],
+            [
+                "Alf Clausen",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "In what year was the creator of the current arrangement of the \"Simpson's Theme\" born?",
+        "answer": "March 28, 1941",
+        "_id": "5addfe6c5542997dc790710e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The current arrangement of the \"Simpson's Theme\" was created by Danny Elfman, who composed the theme for the show starting in 1989. Danny Elfman was born on July 25, 1953.\n\nSo the answer is: 1953."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Southern Railway (Austria)",
+                0
+            ],
+            [
+                "Semmering railway",
+                0
+            ]
+        ],
+        "level": "hard",
+        "question": "The Southern Railway runs from Vienna to Graz and the border with Slovenia at Spielfeld via the first mountain railway built in Europe to use what kind of track?",
+        "answer": "standard gauge track",
+        "_id": "5a7a0a965542996c55b2dce7",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Southern Railway line from Vienna to Graz and the border with Slovenia at Spielfeld indeed includes a notable railway section. This section is known as the Semmering Railway, which is the first mountain railway built in Europe to use broad gauge track. The Semmering Railway was constructed to overcome the challenging terrain between Vienna and the Austrian Alps, and it was completed in 1848. \n\nSo, the answer is: broad gauge track."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Miranda Hobbes",
+                2
+            ],
+            [
+                "Cynthia Nixon",
+                1
+            ]
+        ],
+        "level": "easy",
+        "question": "In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?",
+        "answer": "Sex and the City",
+        "_id": "5a8ae49155429951533613a3",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Cynthia Nixon received the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance in the show \"Sex and the City.\" So the answer is: Sex and the City."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Kato (The Green Hornet)",
+                0
+            ],
+            [
+                "Kato (The Green Hornet)",
+                4
+            ],
+            [
+                "Bruce Lee",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Lee Jun-fan played what character in \"The Green Hornet\" television series?",
+        "answer": "Kato",
+        "_id": "5a74bdbf5542996c70cfadc7",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Lee Jun-fan, also known by his stage name Bruce Lee, played the character Kato in the 1966-1967 \"Green Hornet\" television series. Kato was a secret agent and bodyguard to the Green Hornet. So the answer is: Kato."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "1895\u201396 Everton F.C. season",
+                3
+            ],
+            [
+                "Goodison Park",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "The 1895/96 Football League season was the eighth in Football League history with Everton, their Goodison Park home, is a football stadium located in Walton, Liverpool, in which country?",
+        "answer": "England",
+        "_id": "5ab99943554299131ca42391",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Everton's Goodison Park home is located in Walton, Liverpool. Liverpool is a city in England. So the answer is: England."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "A Head Full of Dreams Tour",
+                0
+            ],
+            [
+                "A Head Full of Dreams Tour",
+                4
+            ],
+            [
+                "Estadio Ciudad de La Plata",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "A Head Full of Dreams Tour is the seventh tour by Coldplay, and which had it's first show at a stadium that is known as Estadio Unico and is owned by who?",
+        "answer": "Province of Buenos Aires",
+        "_id": "5a8195f35542995ce29dcc0c",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The A Head Full of Dreams Tour is indeed Coldplay's seventh tour. The first show of this tour at a stadium known as Estadio Unico took place in Santiago, Chile. Estadio Unico is owned by the Universidad de Chile. So the answer is: The Universidad de Chile."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Roger Avary",
+                2
+            ],
+            [
+                "Beowulf (2007 film)",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Roger Avary (born August 23, 1965) is a Canadian film and television producer, screenwriter and director in the American mass media industry, he wrote the screenplay for Beowulf, a 2007 British-American 3D motion capture epic fantasy film, directed by who?",
+        "answer": "Robert Zemeckis",
+        "_id": "5ab70446554299110f219a94",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Roger Avary wrote the screenplay for the film \"Beowulf,\" a 2007 British-American 3D motion capture epic fantasy film. The film was directed by Robert Zemeckis. So the answer is: Robert Zemeckis."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Hat Check Girl",
+                0
+            ],
+            [
+                "Hat Check Girl",
+                1
+            ],
+            [
+                "Ginger Rogers",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "The American Pre-Code comedy film featuring an American actress, dancer, and singer, widely known for performing in films and RKO's musical films, was released in what year?",
+        "answer": "1932",
+        "_id": "5adbe1e755429947ff173853",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The actress, dancer, and singer you're referring to is likely Betty Grable, who was widely known for her performances in films and particularly with RKO Pictures. One of her notable Pre-Code comedy films is \"The Thin Man\" (1934), but this doesn't fit the description of being a musical. Another famous film she starred in that is a Pre-Code comedy and a musical is \"The Gay Divorcee\" (1934). \n\nSo, the American Pre-Code comedy film featuring Betty Grable, an American actress, dancer, and singer, was released in 1934."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Just the Two of Us (Grover Washington Jr. song)",
+                0
+            ],
+            [
+                "Just the Two of Us (Grover Washington Jr. song)",
+                2
+            ],
+            [
+                "Bette Davis Eyes",
+                0
+            ],
+            [
+                "Bette Davis Eyes",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "An edited version of \"Just the Two of Us\" reached number two on the \"Billboard\" Hot 100 behind a song written and composed by Donna Weiss and Jackie DeShannon which spend how many weeks at No. 1 on the \"Billboard\" hot 100?",
+        "answer": "nine",
+        "_id": "5a904e725542995651fb5118",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The song \"Just the Two of Us\" was originally performed by Bill Withers and later had an edited version that reached number two on the Billboard Hot 100. The song that \"Just the Two of Us\" was behind, which spent the most weeks at No. 1, was \"He's Gonna Step on You Again\" by Donna Weiss and Jackie DeShannon. This song spent 11 weeks at No. 1 on the Billboard Hot 100.\n\nSo the answer is: 11 weeks."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Saint Motel",
+                0
+            ],
+            [
+                "Saint Motel",
+                1
+            ],
+            [
+                "Curve (band)",
+                1
+            ]
+        ],
+        "level": "hard",
+        "question": "Which band has more members, Saint Motel or Curve?",
+        "answer": "Saint Motel",
+        "_id": "5a7daae35542990b8f503a1d",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine which band has more members, we need to look at the typical lineup of each band.\n\n- Saint Motel is an Australian indie rock band. The band is composed of three members: Luke Steele (vocals, guitar), Chris Walla (guitar, vocals), and Mark McEntee (bass, vocals).\n- Curve is a British alternative rock band. The band has had several lineups over the years, but the most well-known lineup includes Mark Webber (guitar, vocals), Mark Smith (guitar, vocals), and Simon Raymonde (bass, vocals).\n\nBoth bands have three members in their current or most well-known lineups. Therefore, the answer is that both bands have the same number of members, which is three."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Funnybot",
+                1
+            ],
+            [
+                "South Park (season 10)",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "\"Funnybot\" is the second episode of the fifteenth season of which American animated television series, created by Trey Parker and Matt Stone?  ",
+        "answer": "South Park",
+        "_id": "5ae6038155429929b0807a55",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \"Funnybot\" is an episode of the animated television series \"South Park,\" which is created by Trey Parker and Matt Stone. The episode is indeed the second episode of the fifteenth season. So the answer is: South Park."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Boston College",
+                0
+            ],
+            [
+                "Stanford University",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Which private research university is located in Chestnut Hill, Massachusetts Boston College or Stanford University? ",
+        "answer": "Boston College",
+        "_id": "5a71458e5542994082a3e738",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Boston College is a private research university located in Chestnut Hill, Massachusetts. Stanford University, on the other hand, is located in Stanford, California. So the answer is: Boston College."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Samson and Delilah (1984 film)",
+                0
+            ],
+            [
+                "Victor Mature",
+                0
+            ],
+            [
+                "Victor Mature",
+                2
+            ]
+        ],
+        "level": "easy",
+        "question": "What American stage, film, and television actor  who also appeared in a large number of musicals, played Samson in the 1949 film \"Samson and Delilah\".",
+        "answer": "Victor John Mature",
+        "_id": "5a73332b5542992359bc3287",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The 1949 film \"Samson and Delilah\" starred Victor Mature as Samson. Victor Mature was an American stage, film, and television actor who also appeared in a large number of musicals. So the answer is: Victor Mature."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Iqaluit Airport",
+                0
+            ],
+            [
+                "Canadian North",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Iqaluit Airport and Canadian North are based out of what country?",
+        "answer": "Canada",
+        "_id": "5ae500fd55429908b63264d8",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Iqaluit Airport is located in Iqaluit, which is the capital city of the Canadian territory of Nunavut. Canadian North is an airline based in Canada that operates flights to and from Iqaluit. So, both Iqaluit Airport and Canadian North are based out of Canada. \n\nSo the answer is: Canada."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Royal Spa Centre",
+                0
+            ],
+            [
+                "Royal Spa Centre",
+                1
+            ],
+            [
+                "Anthony Eden",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "In what political party was the man who officially opened he Royal Spa Centre in 1972?",
+        "answer": "Conservative",
+        "_id": "5ab292e4554299545a2cf993",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To answer this question, we need to identify the man who officially opened the Royal Spa Centre in 1972 and then determine his political affiliation at that time.\n\n1. **Identify the Man**: The Royal Spa Centre is located in Harrogate, North Yorkshire, England. The official opening of the Royal Spa Centre in 1972 was by the then Prime Minister of the United Kingdom, Edward Heath.\n\n2. **Determine Political Affiliation**: Edward Heath was a member of the Conservative Party. He served as the Prime Minister from 1970 to 1974.\n\nSo, the answer is: The man who officially opened the Royal Spa Centre in 1972 was a member of the Conservative Party."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Sooni Taraporevala",
+                0
+            ],
+            [
+                "Mississippi Masala",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Which Oscar-nominated film was written by the screenwriter who wrote a 1991 romantic drama based upon a screenplay by Sooni Taraporevala?",
+        "answer": "Salaam Bombay",
+        "_id": "5a8514545542992a431d1ad2",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question refers to a 1991 romantic drama based on a screenplay by Sooni Taraporevala. The film in question is \"A Suitable Boy,\" which was indeed a romantic drama from 1991 based on Sooni Taraporevala's screenplay.\n\nNow, we need to identify the screenwriter of \"A Suitable Boy.\" The screenwriter of \"A Suitable Boy\" is Ruth Prawer Jhabvala. Ruth Prawer Jhabvala was also the screenwriter for the Oscar-nominated film \"Heat and Dust\" (1983).\n\nSo, the Oscar-nominated film written by Ruth Prawer Jhabvala, who wrote \"A Suitable Boy,\" is \"Heat and Dust.\"\n\nTherefore, the answer is: Heat and Dust."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Tim McIlrath",
+                0
+            ],
+            [
+                "Spike Slawson",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Are both Tim McIlrath and Spike Slawson American punk rock musicians?",
+        "answer": "yes",
+        "_id": "5ae3345f55429928c4239682",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **Tim McIlrath**: Tim McIlrath is the lead singer and guitarist of the American punk rock band Rise Against. He is indeed an American punk rock musician.\n\n2. **Spike Slawson**: Spike Slawson is the bassist of the American punk rock band AFI. He is also an American punk rock musician.\n\nGiven that both Tim McIlrath and Spike Slawson are associated with American punk rock bands, we can conclude that both are American punk rock musicians.\n\nSo the answer is: Yes."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Gigantic (2008 film)",
+                0
+            ],
+            [
+                "John Goodman",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "The Golden Globe Award winner for best actor from \"Roseanne\" starred along what actress in Gigantic?",
+        "answer": "Zooey Deschanel",
+        "_id": "5ac1b48f55429963665198f3",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Golden Globe Award winner for best actor from \"Roseanne\" is John Goodman. In the film \"Gigantic,\" John Goodman starred alongside actress Joely Richardson. So the answer is: Joely Richardson."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Splash! (UK TV series)",
+                3
+            ],
+            [
+                "Tom Daley",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "The expert mentor to the celebrities that perform on \"Splash!\" won the 2009 FINA World Championionship in the individual event at what age? ",
+        "answer": "15",
+        "_id": "5ab9d58855429939ce03dc3a",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question seems to be mixing up different pieces of information. \"Splash!\" is a reality TV show that aired on ABC, which features celebrities competing in various water sports and activities. However, the question asks about an expert mentor who won a 2009 FINA World Championship, which is related to competitive swimming.\n\nTo answer this question, we need to identify the expert mentor who won a 2009 FINA World Championship and then determine their age at the time of the win. However, the show \"Splash!\" does not have a consistent expert mentor, and the FINA World Championships are not typically won by celebrities from reality TV shows.\n\nGiven the mismatch between the show \"Splash!\" and the FINA World Championship, we cannot definitively answer this question with the information provided. If you have a specific expert mentor in mind, please provide that name, and I can help you find the correct age at which they won the 2009 FINA World Championship."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Still da Baddest",
+                3
+            ],
+            [
+                "Keyshia Cole",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Still Da Baddest is the fourth studio album by American rapper Trina, following the poor chart performance, \"I Got a Thang for You\" featuring which American singer/songwriter, record producer, business woman, and television personality, and was born in Oakland, California?",
+        "answer": "Keyshia Cole",
+        "_id": "5ab9121555429919ba4e238a",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The song \"I Got a Thang for You\" featuring the American singer/songwriter, record producer, businesswoman, and television personality who was born in Oakland, California, is likely referring to Nicki Minaj. Nicki Minaj was born in East New York, Brooklyn, but she is well-known for her work in the music industry and her collaborations with various artists. However, Trina has indeed collaborated with Nicki Minaj on this song. So the answer is: Nicki Minaj."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Am Rong",
+                0
+            ],
+            [
+                "Alexandre Rockwell",
+                2
+            ]
+        ],
+        "level": "medium",
+        "question": "What profession does Am Rong and Alexandre Rockwell have in common?",
+        "answer": "filmmaker",
+        "_id": "5abf037a5542993fe9a41dbe",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Am Rong is a filmmaker and writer. Alexandre Rockwell is also a filmmaker and writer. So the profession that Am Rong and Alexandre Rockwell have in common is filmmaker and writer. Therefore, the answer is: filmmaker and writer."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "El Nuevo Cojo",
+                0
+            ],
+            [
+                "El Nuevo Cojo",
+                2
+            ],
+            [
+                "Golf Magazine",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "El Nuevo Cojo and Golf Magazine are both special interest publications but which one is owned by Time Inc?",
+        "answer": "Golf Magazine",
+        "_id": "5ab3ed12554299753aec59f3",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **El Nuevo Cojo**: This is a Spanish-language newspaper and magazine published in Colombia. It is not owned by Time Inc.\n\n2. **Golf Magazine**: This is a special interest publication focused on golf. It is indeed owned by Time Inc.\n\nSo, the answer is: Golf Magazine is owned by Time Inc."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Team Homer",
+                2
+            ],
+            [
+                "Team Homer",
+                3
+            ],
+            [
+                "Otto Mann",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Who funds the bowling team that includes the school bus driver for Springfield Elementary School?",
+        "answer": "Mr. Burns",
+        "_id": "5abcfc3b554299114383a1ad",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question is about a specific detail from the animated TV show \"The Simpsons.\" In the show, Springfield Elementary School has a bowling team that includes Principal Skinner, who is the school bus driver. The funding for this team is not explicitly stated in the show, but it is often implied that such teams are funded by the school district or local community. However, given the quirky and often unconventional nature of Springfield, it's possible that the team is funded in a unique way, perhaps through local businesses or community donations. Without a specific canon answer, we can infer that the funding likely comes from the school district or local community, but it's not definitively stated. \n\nSo, the most likely answer is that the bowling team is funded by the school district or local community, but the exact source is not specified in the show."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "George Washington University Hospital",
+                0
+            ],
+            [
+                "MedStar Washington Hospital Center",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What city are George Washington University Hospital and MedStar Washington Hospital Center located in?",
+        "answer": "Washington, D.C.",
+        "_id": "5a74f2ff5542993748c89748",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. George Washington University Hospital and MedStar Washington Hospital Center are both well-known medical facilities in the Washington, D.C. area. They are located in Washington, D.C., the capital city of the United States. So the answer is: Washington, D.C."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Peter O'Meara",
+                1
+            ],
+            [
+                "Norman Dike",
+                3
+            ]
+        ],
+        "level": "easy",
+        "question": "what is the connection between Peter O'Meara and Norman Dike?",
+        "answer": "Band of Brothers",
+        "_id": "5ac52b495542994611c8b3de",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine the connection between Peter O'Meara and Norman Dike, we need to look into their backgrounds and roles. \n\n1. **Peter O'Meara**: He was an Irish-born American astronomer and the first director of the Lowell Observatory in Flagstaff, Arizona. He is known for his work in astrophotography and for discovering several asteroids.\n\n2. **Norman Dike**: He was a geologist and the first director of the Geological Survey of Nigeria. He is known for his work on the geology of Nigeria, particularly for his discovery of the Benue-Trough, a large sedimentary basin in West Africa.\n\nGiven their fields of work, it seems they were both directors of important institutions and made significant contributions to their respective fields. However, there is no widely known direct connection between them based on their primary areas of work.\n\nIf there is a specific context or field where they are connected, it would be helpful to have more information. Without additional context, the most accurate answer is that they were both directors of significant institutions in their fields, but there is no direct known connection between them.\n\nSo, the answer is: There is no widely known direct connection between Peter O'Meara and Norman Dike based on their primary areas of work."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Dysteleology",
+                2
+            ],
+            [
+                "Christopher Hitchens",
+                3
+            ]
+        ],
+        "level": "medium",
+        "question": "What author has contributed to such works as \"New Statesmen\", \"The Nation\", and \"The Atlantic\", among others, while also being being associated with Dysteleology?",
+        "answer": "Christopher Hitchens",
+        "_id": "5a72b1c25542992359bc3172",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Dysteleology is the study of apparently flawed or maladaptive aspects of organisms or natural phenomena, often seen as the opposite of teleology, which deals with purpose or design in nature. An author associated with dysteleology might write about topics that challenge the idea of a benevolent or purposeful natural order.\n\n\"New Statesman\", \"The Nation\", and \"The Atlantic\" are well-known magazines that cover a wide range of topics, including politics, culture, and social issues. Authors who contribute to these publications often have a strong background in writing and analysis.\n\nOne author who fits this description is Richard Dawkins. He is a well-known evolutionary biologist and author who has written extensively on topics related to evolution and the nature of life, often challenging the idea of intelligent design. Dawkins has contributed to various publications, including \"The Atlantic\", and his work aligns with the principles of dysteleology.\n\nSo, the answer is: Richard Dawkins."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "R Adams Cowley",
+                0
+            ],
+            [
+                "R Adams Cowley",
+                7
+            ],
+            [
+                "Dwight D. Eisenhower",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Who developed the prototype pacemaker used by the 34th President of the USA?",
+        "answer": "R Adams Cowley",
+        "_id": "5a72a00d5542991f9a20c53c",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The 34th President of the USA was Dwight D. Eisenhower, who served from 1953 to 1961. The first successful portable pacemaker was developed by Dr. Woodruff Lewis in 1952. However, the first implantable pacemaker was developed by Dr. Andreas Gruntzig and Dr. Albert S. Hyman in 1958. Given that Eisenhower's presidency ended in 1961, it's likely that he would have used a portable pacemaker rather than an implantable one. Dr. Woodruff Lewis is credited with developing the first portable pacemaker, which was used by some patients during Eisenhower's presidency. So the answer is: Dr. Woodruff Lewis."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Bizarre (magazine)",
+                0
+            ],
+            [
+                "Bizarre (magazine)",
+                1
+            ],
+            [
+                "Fortean Times",
+                0
+            ],
+            [
+                "Fortean Times",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Which publishing company has published Bizarre and a sister publication devoted to the anomalous phenomena popularised by Charles Fort?",
+        "answer": "Dennis Publishing",
+        "_id": "5a8fa73e5542992414482b22",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Bizarre magazine is known for publishing articles and stories related to the anomalous phenomena popularized by Charles Fort. A sister publication to Bizarre that focuses on similar topics is Fortean Times. Fortean Times is a magazine that covers Fortean subjects, which include unexplained phenomena and anomalies in nature and human experience.\n\nSo, the publishing company that has published Bizarre and a sister publication devoted to the anomalous phenomena popularized by Charles Fort is the same company that publishes Fortean Times. Fortean Times is published by New Falcon Publications.\n\nTherefore, the answer is: New Falcon Publications."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Friends in Low Places",
+                0
+            ],
+            [
+                "Friends in Low Places",
+                1
+            ],
+            [
+                "No Fences",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Who performed the lead single on the album Friends in Low Places, No Fences, that reached #1 on Billboard?",
+        "answer": "Garth Brooks",
+        "_id": "5a8dfbeb5542995085b3736e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The album \"Friends in Low Places, No Fences\" is by Garth Brooks. The lead single from this album is \"Friends in Low Places,\" which reached #1 on the Billboard Hot Country Songs chart. So the performer of the lead single is Garth Brooks."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Hate to Feel",
+                0
+            ],
+            [
+                "Dirt (Alice in Chains album)",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Hate to Feel is the tenth track on what Alice in Chains' album that peaked as number six on the Billboard 200?",
+        "answer": "Dirt",
+        "_id": "5ab39701554299233954ff5e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The song \"Hate to Feel\" is from Alice in Chains' album \"Black Gives Way to Blue,\" which was released in 1995. This album peaked at number six on the Billboard 200 chart. So the answer is: Black Gives Way to Blue."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Portugal. The Man",
+                0
+            ],
+            [
+                "Portugal. The Man",
+                2
+            ],
+            [
+                "John Gourley",
+                1
+            ],
+            [
+                "John Gourley",
+                4
+            ]
+        ],
+        "level": "medium",
+        "question": "The lead singer and guitarist in the Portland, Oregon rock band consisting of John Gourley, Zach Carothers, Kyle O'Quin, Jason Sechrist and Eric Howk, goes by what alias?",
+        "answer": "The Fantastic The",
+        "_id": "5ab6ad2855429953192ad35e",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The band you're referring to is The Decemberists, a Portland, Oregon rock band. The lead singer and guitarist in The Decemberists is John Gourley. John Gourley often performs under the alias \"Captain John Silver.\" So the answer is: Captain John Silver."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "2016 Marrakesh ePrix",
+                2
+            ],
+            [
+                "S\u00e9bastien Buemi",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What year was the winner of the 2016 Marrakesh ePrix born?",
+        "answer": "1988",
+        "_id": "5adf8d5b5542995534e8c7e1",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "To answer this question, we need to know the winner of the 2016 Marrakesh ePrix and their birth year. Let's break it down step by step:\n\n1. **Identify the winner of the 2016 Marrakesh ePrix**: The winner of the 2016 Marrakesh ePrix was Jean-\u00c9ric Vergne.\n\n2. **Find Jean-\u00c9ric Vergne's birth year**: Jean-\u00c9ric Vergne was born on October 28, 1989.\n\nSo, the answer is: Jean-\u00c9ric Vergne, the winner of the 2016 Marrakesh ePrix, was born in 1989."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Kim Yool-ho",
+                0
+            ],
+            [
+                "Train to Busan",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "South Korean actor Kim Yool-ho starred in what 2016 movie directed by Yeon Sang-ho Yeon Sang-ho and starring actors Gong Yoo, Jung Yu-mi, and Ma Dong-seok?",
+        "answer": "Train to Busan",
+        "_id": "5ae5b3df5542992663a4f20b",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The 2016 movie directed by Yeon Sang-ho, which stars Kim Yool-ho, Gong Yoo, Jung Yu-mi, and Ma Dong-seok, is \"Train to Busan.\" This movie is a South Korean horror film about a zombie outbreak and the passengers on a train. So the answer is: Train to Busan."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Uche James-Iroha",
+                1
+            ],
+            [
+                "Enugu",
+                2
+            ]
+        ],
+        "level": "medium",
+        "question": "According to the 2006 census what is the population of the city in which James Iroha Uchechukwu was born ?",
+        "answer": "722,664",
+        "_id": "5ac2423755429951e9e684ff",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "To answer this question, we need to know the city in which James Iroha Uchechukwu was born. However, the information provided in the question does not include this detail. Without knowing the specific city, we cannot determine the population according to the 2006 census. \n\nIf you can provide the city, I can help you find the population data from the 2006 census."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "D.C. Cab",
+                0
+            ],
+            [
+                "Max Gail",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "What actor in the film D.C. Cab also had a role in the TV series Barney Miller?",
+        "answer": "Max Gail",
+        "_id": "5a822d4655429926c1cdae45",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To answer this question, we need to identify actors who were in both \"D.C. Cab\" and \"Barney Miller.\"\n\n1. **\"D.C. Cab\"** is a 1990 American comedy film directed by Ron Shelton. Notable actors in this film include Michael Jeter, who played the character of Darryl \"DC\" Davis.\n\n2. **\"Barney Miller\"** is a long-running American police comedy television series that aired from 1975 to 1982. Notable actors in this series include Ron Rifkin, who played the character of Officer Phil Fish.\n\n3. **Ron Rifkin** is known for his role as Officer Phil Fish in \"Barney Miller.\" He also had a role in the film \"D.C. Cab,\" where he played the character of Officer Mike.\n\nSo, the actor who appeared in both \"D.C. Cab\" and \"Barney Miller\" is Ron Rifkin."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Catherine (alternative rock band)",
+                0
+            ],
+            [
+                "Richard Hawley",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "Which industry do Richard Hawley and Chicago's Catherine belong to? ",
+        "answer": "rock band",
+        "_id": "5ab9672655429970cfb8eabd",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Richard Hawley is a British singer-songwriter and musician. Catherine from Chicago is a character from the long-running American television soap opera \"The Young and the Restless.\" \n\n- Richard Hawley belongs to the music industry as a singer-songwriter and musician.\n- Catherine from Chicago belongs to the entertainment industry as a character in a television show.\n\nSo, Richard Hawley and Catherine from Chicago belong to different industries. The answer is: Richard Hawley belongs to the music industry, and Catherine from Chicago belongs to the entertainment industry."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Pam Veasey",
+                0
+            ],
+            [
+                "Jon Jost",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Are Pam Veasey and Jon Jost both American?",
+        "answer": "yes",
+        "_id": "5abb1f745542996cc5e49fb5",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. \n\n1. **Pam Veasey**: Pam Veasey is a social entrepreneur and community organizer. She is known for her work in Pittsburgh, Pennsylvania, USA. Therefore, she is American.\n\n2. **Jon Jost**: Jon Jost is a filmmaker and film director. He was born in Switzerland but has lived and worked in the United States for many years. While he has significant connections to the U.S., he is not considered American by birth.\n\nSo, the answer is: No, Pam Veasey is American, but Jon Jost is not."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Hot Feet",
+                0
+            ],
+            [
+                "Maurice Hines",
+                1
+            ]
+        ],
+        "level": "hard",
+        "question": "Maurice Hines and his brother were famous for what?",
+        "answer": "dancer Gregory Hines",
+        "_id": "5abbbd0f55429931dba144d5",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Maurice Hines is known as a dancer, choreographer, and actor. His brother, Gregory Hines, was also a renowned dancer, choreographer, and actor. Both Maurice and Gregory Hines were famous for their work in dance and entertainment. So the answer is: Maurice Hines and his brother Gregory Hines were famous for their work in dance and entertainment."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Augusta Canal",
+                1
+            ],
+            [
+                "New Orleans Outfall Canals",
+                2
+            ]
+        ],
+        "level": "hard",
+        "question": "Are the New Orleans Outfall Canals the same length as the Augusta Canal?",
+        "answer": "yes",
+        "_id": "5ac3e8c65542997ea680c993",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine if the New Orleans Outfall Canals and the Augusta Canal are the same length, we need to find the lengths of both canals.\n\n1. **New Orleans Outfall Canals**: The New Orleans Outfall Canals consist of three canals: the 17th Street Canal, the London Avenue Canal, and the Orleans Avenue Canal. The total length of these canals is approximately 22 miles (35 kilometers).\n\n2. **Augusta Canal**: The Augusta Canal is a single canal located in Augusta, Georgia. Its total length is approximately 4.5 miles (7.2 kilometers).\n\nComparing the two:\n- New Orleans Outfall Canals: 22 miles\n- Augusta Canal: 4.5 miles\n\nSince 22 miles is not equal to 4.5 miles, the New Orleans Outfall Canals are not the same length as the Augusta Canal.\n\nSo the answer is: No."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Myra Kraft",
+                0
+            ],
+            [
+                "Robert Kraft",
+                2
+            ]
+        ],
+        "level": "medium",
+        "question": "In which stadium do the teams owned by Myra Kraft's husband play?",
+        "answer": "Gillette Stadium",
+        "_id": "5a87390555429960ec39b769",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. Myra Kraft is known for being the owner of the Denver Broncos, an NFL team. Myra Kraft's husband is Jack Kent Cooke, who was the owner of the Los Angeles Lakers and the Los Angeles Kings. The Denver Broncos play in Empower Field at Mile High, and the Los Angeles Lakers and Los Angeles Kings play in the Staples Center. So the answer is: The teams owned by Myra Kraft's husband play in two different stadiums - Empower Field at Mile High for the Denver Broncos and Staples Center for the Los Angeles Lakers and Los Angeles Kings."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Godzilla (song)",
+                3
+            ],
+            [
+                "Fu Manchu (band)",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What southern California based band covered Blue \u00d6yster Cult's Godzilla?",
+        "answer": "Fu Manchu",
+        "_id": "5a8766cb5542996e4f3087d6",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The band that is well-known for covering Blue \u00d6yster Cult's \"Godzilla\" is the southern California-based band Bad Religion. So the answer is: Bad Religion."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Zygi Kamasa",
+                1
+            ],
+            [
+                "London Has Fallen",
+                0
+            ]
+        ],
+        "level": "easy",
+        "question": "The Swedish-British entertainment studio executive and film executive producer, who was the Executive producer for a 2016 American action thriller film directed by Babak Najafi, currently serve?",
+        "answer": "CEO of Lionsgate UK & Europe",
+        "_id": "5a7ca54c55429935c91b527f",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question is asking about a specific individual who was the executive producer for a 2016 American action thriller film directed by Babak Najafi. To answer this, we need to identify who that person is.\n\n1. **Identify the film**: The film in question is \"The Drop,\" an American action thriller released in 2016.\n2. **Director**: The director of \"The Drop\" is indeed Babak Najafi.\n3. **Executive Producer**: The executive producer for \"The Drop\" is Peter Storck. Peter Storck is a Swedish-British entertainment studio executive and film executive producer.\n\nSo, the answer is: Peter Storck."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Chuck Versus the Role Models",
+                1
+            ],
+            [
+                "Swoosie Kurtz",
+                1
+            ]
+        ],
+        "level": "easy",
+        "question": "an Emmy Award winner and two-time Tony Award winner, was on the episode 15 of the third season of \"Chuck\". what is her name ?",
+        "answer": "Swoosie Kurtz",
+        "_id": "5a90c2b35542995651fb51df",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine the name of the actress who was on episode 15 of the third season of \"Chuck\" and is an Emmy Award winner and two-time Tony Award winner, we need to identify such an actress who appeared in that specific episode.\n\n1. **Identify the actress**: We need to find an actress who has won both an Emmy Award and two Tony Awards and appeared in \"Chuck.\"\n\n2. **Check the cast of \"Chuck\"**: The third season of \"Chuck\" aired from 2009 to 2010. We need to look at the cast list for episode 15 of that season.\n\n3. **Match the criteria**: The actress who fits these criteria is Morena Baccarin. She is an Emmy Award winner and has won two Tony Awards. She appeared in \"Chuck\" as Sarah Walker, a recurring character in the show.\n\nSo, the answer is: Morena Baccarin."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Rainbow Terrace",
+                0
+            ],
+            [
+                "Asa Griggs Candler",
+                0
+            ],
+            [
+                "Asa Griggs Candler",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "What is the current name of the Atlanta Mansion built for the daughter of the 41st Mayor of Atlanta, Georgia?",
+        "answer": "Lullwater Estate",
+        "_id": "5ae0fa8b5542997b2ef7d0c6",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Atlanta Mansion you're referring to is likely the Phipps House, which was built for Margaret Phipps, the daughter of William B. H. Phipps, who was the 41st Mayor of Atlanta, Georgia. The current name of the Atlanta Mansion built for Margaret Phipps is the Phipps House. So the answer is: Phipps House."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Autograph (Assyriology)",
+                0
+            ],
+            [
+                "Cuneiform script",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Who invented the type of script used in autographs?",
+        "answer": "the Sumerians",
+        "_id": "5a74a3bd55429979e28829da",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The type of script used in autographs is typically cursive handwriting. Cursive handwriting evolved from earlier scripts like Roman and Carolingian minuscule. The exact inventor of cursive script is not known because it developed gradually over time as a practical writing style. However, it is often associated with the work of scribes in the Middle Ages who developed flowing, connected letterforms for speed and efficiency in writing. So, the answer is that cursive script, used in autographs, was not invented by a single person but developed over time by various scribes and writers."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Princess Fragrant",
+                1
+            ],
+            [
+                "Princess Fragrant",
+                2
+            ],
+            [
+                "Han Chinese",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Approximately what percentage of the global population is made up of the ethnic group Princess Fragrant was produced to improve relations with?",
+        "answer": "17%",
+        "_id": "5a8f938a55429918e830d275",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The question refers to Princess Fragrant, which is likely a reference to the Chinese opera or film \"Princess Fragrant\" (\u9999\u5983, Xi\u0101ng f\u0113i). This opera and film series were produced during the Qing Dynasty and were intended to improve relations with the Hui people, who are an ethnic group in China. The Hui people are primarily concentrated in the Northwestern regions of China and are predominantly Muslim. According to various sources, the Hui population is estimated to be around 10-12 million, which is approximately 0.8% to 1% of the global population. \n\nSo, the answer is: Approximately 0.8% to 1% of the global population is made up of the ethnic group Princess Fragrant was produced to improve relations with."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Boren-McCurdy proposals",
+                0
+            ],
+            [
+                "David L. Boren",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "The Boren-McCurdy proposals were partially brought about by which Oklahoma politician in 1992?",
+        "answer": "David Lyle Boren",
+        "_id": "5add3b665542997545bbbcd2",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Boren-McCurdy proposals were named after two Oklahoma politicians who introduced the bill in 1992. The proposals were partially brought about by Senator Daniel Inouye, who was a key figure in supporting the legislation. However, the primary sponsors of the bill were David Boren, a former Senator from Oklahoma, and Niki McCurdy, who was Boren's chief of staff at the time. So the answer is: David Boren."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Thoen Stone",
+                2
+            ],
+            [
+                "Deadwood, South Dakota",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "The Thoen Stone is on display at a museum in what county?",
+        "answer": "Lawrence County",
+        "_id": "5ab728e45542992aa3b8c7b4",
+        "type": "bridge",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. The Thoen Stone is an archaeological artifact that is known to be on display at the Museum of Northern Arizona in Flagstaff, Arizona. The Museum of Northern Arizona is located in Coconino County, Arizona. So the answer is: Coconino County."
+            }
+        }
+    },
+    {
+        "supporting_facts": [
+            [
+                "Children's National Medical Center",
+                0
+            ],
+            [
+                "MedStar Washington Hospital Center",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Is Children's National Medical Center or MedStar Washington Hospital Center the largest private hospital in Washington, D.C.?",
+        "answer": "MedStar Washington Hospital Center",
+        "_id": "5a74fbe55542996c70cfae63",
+        "type": "comparison",
+        "prediction": {
+            "greedy": {
+                "text": "Let's think step by step. To determine which hospital is the largest private hospital in Washington, D.C., we need to look at the number of beds or patients served, as these are common metrics for hospital size.\n\n1. **Children's National Medical Center**: This is a well-known pediatric hospital in Washington, D.C. It is a private, not-for-profit institution.\n\n2. **MedStar Washington Hospital Center**: This is a large, comprehensive hospital in Washington, D.C. It is part of MedStar Health, a large health system.\n\nTo find the exact number of beds or patients served, we would need to refer to the most recent and reliable sources. However, based on general knowledge:\n\n- **Children's National Medical Center** is primarily a pediatric hospital and does not have as many adult beds as a general hospital.\n- **MedStar Washington Hospital Center** is a large, general hospital with a significant number of adult beds and a wide range of services.\n\nGiven this information, **MedStar Washington Hospital Center** is generally considered to be the largest private hospital in Washington, D.C., due to its larger capacity and range of services.\n\nSo the answer is: MedStar Washington Hospital Center is the largest private hospital in Washington, D.C."
+            }
+        }
+    }
+]
