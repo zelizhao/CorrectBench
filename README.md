@@ -6,6 +6,12 @@ This is a repository for building an unified framework and benchmark for Self-Co
 
 - **./method:** Definition of different self-correction methods in our unified framework. We have support the following method: [RCI](https://arxiv.org/abs/2303.17491), [CoVe](https://arxiv.org/abs/2309.11495), [Reflexion](https://arxiv.org/abs/2303.11366), [Self-Refine](https://arxiv.org/abs/2303.17651).
 
+- **./method_finetuning:**
+
+- **./method_mixture:**
+
+-  **./method_tool:** Definition of different self-correction methods in our unified framework. We have support the following method: [CRITIC](https://arxiv.org/abs/2305.11738), [RATT](https://arxiv.org/abs/2406.02746), [RARR](https://arxiv.org/abs/2210.08726).
+  
 - **./model:** Definition of loading API models and local models.
 
 - **./task:** Definition of loading different datasets. We have support the following dataset: GSM8k, **TODO:** other datasets.
