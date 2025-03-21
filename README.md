@@ -6,9 +6,9 @@ This is a repository for building an unified framework and benchmark for Self-Co
 
 - **./method:** Definition of different self-correction methods in our unified framework. We have support the following method: [RCI](https://arxiv.org/abs/2303.17491), [CoVe](https://arxiv.org/abs/2309.11495), [Reflexion](https://arxiv.org/abs/2303.11366), [Self-Refine](https://arxiv.org/abs/2303.17651).
 
-- **./method_finetuning:**
+- **./method_finetuning:** Definition of different self-correction methods in our unified framework. We have support the following method: [DCoT](https://arxiv.org/pdf/2407.03181).
 
-- **./method_mixture:**
+- **./method_mixture:** We have a mixture of different self-correction methods
 
 -  **./method_tool:** Definition of different self-correction methods in our unified framework. We have support the following method: [CRITIC](https://arxiv.org/abs/2305.11738), [RATT](https://arxiv.org/abs/2406.02746), [RARR](https://arxiv.org/abs/2210.08726).
   
