@@ -3,7 +3,7 @@
 Can LLMs Correct Themselves? A Benchmark of Self-Correction in LLMs
 </h1>
 <p align="center">
-  <a href="https://criticbench.github.io/"><b>[🌐 Website]</b></a> •
+  <a href="https://github.com/zelizhao/CorrectBench.github.io"><b>[🌐 Website]</b></a> •
   <a href="https://github.com/zelizhao/CorrectBench"><b>[🐱 GitHub]</b></a>
   <br>
 </p>
